@@ -1,16 +1,16 @@
 Flask==3.0.0 
-// Web server framework
+# Web server framework
 Flask-CORS==4.0.0
-// Allows communication between frontend and backend
+# Allows communication between frontend and backend
 boto3==1.34.0
-// Amazons library for talking to AWS services
+# Amazons library for talking to AWS services
 pandas==2.1.4
-// Data analysis for python
+# Data analysis for python
 numpy==1.26.2
-// Math library for pandas
+# Math library for pandas
 requests==2.31.0
-// Makes HTTP requests easier
+# Makes HTTP requests easier
 python-dotenv==1.0.0
-// Loads environment variables from a .env file
+# Loads environment variables from a .env file
 python-dateutil==2.8.2
-// Handles dates and times
+# Handles dates and times

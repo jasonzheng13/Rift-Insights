@@ -1,0 +1,28 @@
+# Environment variables (SECRETS - NEVER COMMIT THIS)
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (can be large)
+data/*.json
+!data/sample_matches.json
+
+# Logs
+*.log
