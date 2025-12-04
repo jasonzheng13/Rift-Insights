@@ -12,6 +12,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.Python
 
 # VS Code settings
 .vscode/
@@ -19,6 +20,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+.idea/
 
 # Data files (can be large)
 data/*.json
